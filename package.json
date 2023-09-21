@@ -1,0 +1,25 @@
+{
+  "name": "avaliacao-nodejs",
+  "version": "1.0.0",
+  "description": "avaliação nodejs JP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaphaelSBarros/avaliacao-nodejs.git"
+  },
+  "author": "Raphael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaphaelSBarros/avaliacao-nodejs/issues"
+  },
+  "homepage": "https://github.com/RaphaelSBarros/avaliacao-nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
